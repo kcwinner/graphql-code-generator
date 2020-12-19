@@ -1,5 +1,13 @@
 # @graphql-codegen/flow-operations
 
+## 1.18.5
+
+### Patch Changes
+
+- 658f62d7: Support for input lists coercion
+- Updated dependencies [658f62d7]
+  - @graphql-codegen/visitor-plugin-common@1.17.22
+
 ## 1.18.4
 
 ### Patch Changes

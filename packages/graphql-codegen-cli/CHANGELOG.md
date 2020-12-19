@@ -1,5 +1,17 @@
 # @graphql-codegen/cli
 
+## 1.20.0
+
+### Minor Changes
+
+- 658f62d7: Add `merge` (`<<`) syntax for `yaml` configurations
+
+### Patch Changes
+
+- 658f62d7: CLI with watch option will reload using new config on change
+- 658f62d7: Fix wrong MODULE_NOT_FOUND for missing dependencies
+- 658f62d7: fix hooks as single function
+
 ## 1.19.4
 
 ### Patch Changes
